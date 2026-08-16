@@ -62,3 +62,34 @@ print("Ola, Mundo! (1300/1300)")
 # FIM DO ARQUIVO HISTÓRICO - 1.300 TECNOLOGIAS MAPEADAS COM SUCESSO!
 # ==============================================================================
 
+# 331. GDScript (Engine de Jogos Godot)
+print("Ola, Mundo! (331/1300)")
+
+# 332. UnrealScript (Engine Unreal antiga)
+print("Ola, Mundo! (332/1300)")
+
+# 333. GML (GameMaker Language)
+print("Ola, Mundo! (333/1300)")
+
+# 334. AGK Script (App Game Kit)
+print("Ola, Mundo! (334/1300)")
+
+# 335. Papyrus (Jogos da Bethesda)
+print("Ola, Mundo! (335/1300)")
+
+# 336. NWScript (Jogo Neverwinter Nights)
+print("Ola, Mundo! (336/1300)")
+
+# 337. LSL (Linden Scripting Language)
+print("Ola, Mundo! (337/1300)")
+
+# 338. QuakeC (Jogo Quake clássico)
+print("Ola, Mundo! (338/1300)")
+
+# 339. Boo (Engine Unity antiga)
+print("Ola, Mundo! (339/1300)")
+
+# 340. UnityScript (JavaScript da Unity)
+print("Ola, Mundo! (340/1300)")
+
+
