@@ -3881,3 +3881,18 @@ print("Ola, Mundo! (1299/1300)")
 # 1300. Python-AI 2026 (DSLs de tensores para a nova geração de chips e agentes)
 print("Ola, Mundo! (1300/1300)")
 
+ __________________________________________________
+/\                                                 \
+\_|  🏆 CERTIFICADO DE CONCLUSÃO DE PROJETO         |
+
+  |                                                |
+  |  Desenvolvedor: [ Ronildo /2026 ]      |
+  |  Projeto: 1.300 Olá Mundo Históricos           |
+  |  Status: 100% ONLINE E DOCUMENTADO 🎉          |
+  |  Tecnologias: Do Mainframe à IA de 2026        |
+  |                                                |
+  |  "O código é a escrita do futuro."             |
+  | _______________________________________________|
+  |/_______________________________________________/
+
+
