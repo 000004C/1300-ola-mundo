@@ -298,3 +298,304 @@ print("Ola, Mundo! (99/1300)")
 # 100. Elsh Script (Shell minimalista focado em segurança de microssistemas)
 print("Ola, Mundo! (100/1300)")
 
+# 101. Node.js Core (Ambiente de execução JavaScript para servidores)
+print("Ola, Mundo! (101/1300)")
+
+# 102. Deno Core (Runtime seguro para JavaScript e TypeScript)
+print("Ola, Mundo! (102/1300)")
+
+# 103. Bun Core (Runtime e empacotador ultra-rápido em Zig)
+print("Ola, Mundo! (103/1300)")
+
+# 104. CoffeeScript (Sintaxe enxuta que compila para JavaScript)
+print("Ola, Mundo! (104/1300)")
+
+# 105. LiveScript (Sucessor espiritual do CoffeeScript com toque funcional)
+print("Ola, Mundo! (105/1300)")
+
+# 106. Dart SDK (Linguagem base do ecossistema Flutter)
+print("Ola, Mundo! (106/1300)")
+
+# 107. GWT / Google Web Toolkit (Compila código Java para JavaScript)
+print("Ola, Mundo! (107/1300)")
+
+# 108. JScript (A versão clássica da Microsoft para JavaScript)
+print("Ola, Mundo! (108/1300)")
+
+# 109. VBScript Web (Scripts antigos executados no Internet Explorer)
+print("Ola, Mundo! (109/1300)")
+
+# 110. ActionScript 2.0 (Evolução orientada a objetos para animações Flash)
+print("Ola, Mundo! (110/1300)")
+
+# 111. ActionScript 3.0 (Versão final de alta performance do Flash)
+print("Ola, Mundo! (111/1300)")
+
+# 112. Haxe (Linguagem multi-alvo que gera código para várias plataformas)
+print("Ola, Mundo! (112/1300)")
+
+# 113. Opal Ruby (Compilador que traduz código Ruby para rodar no navegador)
+print("Ola, Mundo! (113/1300)")
+
+# 114. ViennaCL Python (Interface para computação científica acelerada)
+print("Ola, Mundo! (114/1300)")
+
+# 115. PyScript (Permite rodar scripts Python direto dentro do HTML)
+print("Ola, Mundo! (115/1300)")
+
+# 116. Brython (Implementação do Python 3 para automação do navegador)
+print("Ola, Mundo! (116/1300)")
+
+# 117. Scala.js (Otimiza e compila código Scala para o ecossistema web)
+print("Ola, Mundo! (117/1300)")
+
+# 118. ClojureScript (Dialeto Lisp voltado para desenvolvimento web robusto)
+print("Ola, Mundo! (118/1300)")
+
+# 119. Elm Core (Linguagem funcional pura livre de erros em tempo de execução)
+print("Ola, Mundo! (119/1300)")
+
+# 120. PureScript (Fortemente tipada e funcional inspirada em Haskell para web)
+print("Ola, Mundo! (120/1300)")
+
+# 121. ReasonML (Sintaxe amigável sobre o ecossistema e tipos do OCaml)
+print("Ola, Mundo! (121/1300)")
+
+# 122. Rescript (Evolução do ReasonML focada em gerar JavaScript limpo)
+print("Ola, Mundo! (122/1300)")
+
+# 123. Flow JS (Ferramenta estática de checagem de tipos criada pelo Meta)
+print("Ola, Mundo! (123/1300)")
+
+# 124. AssemblyScript Core (Escreva TypeScript e compile direto para WebAssembly)
+print("Ola, Mundo! (124/1300)")
+
+# 125. Grain Core (Moderna, funcional e focada totalmente em WebAssembly)
+print("Ola, Mundo! (125/1300)")
+
+# 126. Objective-C Classic (A base antiga de aplicativos para iOS e macOS)
+print("Ola, Mundo! (126/1300)")
+
+# 127. Swift 3 (Grande reestruturação da linguagem oficial da Apple)
+print("Ola, Mundo! (127/1300)")
+
+# 128. Swift 5 (Consolidação de estabilidade e interface de sistemas Mac)
+print("Ola, Mundo! (128/1300)")
+
+# 129. Java 8 (Versão histórica que trouxe lambdas e streams ao ecossistema)
+print("Ola, Mundo! (129/1300)")
+
+# 130. Java 11 (Padrão corporativo LTS de longa duração estável)
+print("Ola, Mundo! (130/1300)")
+
+# 131. Java 17 (Melhorias profundas em recordes e casamento de padrões)
+print("Ola, Mundo! (131/1300)")
+
+# 132. Java 21 (Introdução de threads virtuais para alta concorrência)
+print("Ola, Mundo! (132/1300)")
+
+# 133. Kotlin JVM (Código focado em backend e interoperabilidade com Java)
+print("Ola, Mundo! (133/1300)")
+
+# 134. Kotlin Native (Compilação direta para código de máquina sem JVM)
+print("Ola, Mundo! (134/1300)")
+
+# 135. Ceylon (Linguagem modular criada pela Red Hat para suceder o Java)
+print("Ola, Mundo! (135/1300)")
+
+# 136. Xtend (Linguagem flexível que traduz código para Java limpo)
+print("Ola, Mundo! (136/1300)")
+
+# 137. AspectJ (Extensão para programação orientada a aspectos no Java)
+print("Ola, Mundo! (137/1300)")
+
+# 138. C# 10 (Evolução com namespaces globais e recordes limpos)
+print("Ola, Mundo! (138/1300)")
+
+# 139. C# 12 (Coleções literais e construtores primários para classes)
+print("Ola, Mundo! (139/1300)")
+
+# 140. Visual Basic .NET (A modernização do VB para a plataforma unificada)
+print("Ola, Mundo! (140/1300)")
+
+# 141. Managed C++ (Extensão antiga da Microsoft para rodar C++ no .NET)
+print("Ola, Mundo! (141/1300)")
+
+# 142. C++/CLI (Sucessora do Managed C++ para ponte de código nativo e gerenciado)
+print("Ola, Mundo! (142/1300)")
+
+# 143. Boo Lang (Sintaxe limpa inspirada em Python feita para rodar no .NET)
+print("Ola, Mundo! (143/1300)")
+
+# 144. Cobra Lang (Mistura de Python, C# e Eiffel com testes embutidos)
+print("Ola, Mundo! (144/1300)")
+
+# 145. Fantom (Portátil, roda em bytecode Java, .NET e gera JavaScript)
+print("Ola, Mundo! (145/1300)")
+
+# 146. Gosu (Linguagem pragmática e estática muito utilizada no setor de seguros)
+print("Ola, Mundo! (146/1300)")
+
+# 147. NetRexx (Une a sintaxe limpa do Rexx com o poder da plataforma Java)
+print("Ola, Mundo! (147/1300)")
+
+# 148. JudoScript (Funcionalidades nativas focadas em manipulação de arquivos)
+print("Ola, Mundo! (148/1300)")
+
+# 149. Rhino JavaScript v2 (Otimizações do motor JS integrado da Mozilla)
+print("Ola, Mundo! (149/1300)")
+
+# 150. Kawa Scheme (Compilador Scheme que gera bytecode direto para rodar na JVM)
+print("Ola, Mundo! (150/1300)")
+
+# 151. SQL:1986 (O primeiro padrão oficial da linguagem SQL)
+print("Ola, Mundo! (151/1300)")
+
+# 152. SQL:1989 (Adição de restrições de integridade e chaves)
+print("Ola, Mundo! (152/1300)")
+
+# 153. SQL:1992 / SQL-2 (Grandes recursos como JOINs e tipos adicionais)
+print("Ola, Mundo! (153/1300)")
+
+# 154. SQL:1999 / SQL-3 (Introdução de triggers e tipos orientados a objetos)
+print("Ola, Mundo! (154/1300)")
+
+# 155. SQL:2003 (Suporte integrado a estruturas de arquivos XML)
+print("Ola, Mundo! (155/1300)")
+
+# 156. SQL:2006 (Padrão expandido de mapeamento de dados XML)
+print("Ola, Mundo! (156/1300)")
+
+# 157. SQL:2008 (Introdução de suporte para comandos TRUNCATE)
+print("Ola, Mundo! (157/1300)")
+
+# 158. SQL:2011 (Inclusão de dados temporais e histórico de tabelas)
+print("Ola, Mundo! (158/1300)")
+
+# 159. SQL:2016 (Suporte nativo para consultas e dados JSON)
+print("Ola, Mundo! (159/1300)")
+
+# 160. SQL:2019 (Adição de funções multidimensionais de arrays)
+print("Ola, Mundo! (160/1300)")
+
+# 161. SQL:2023 (Padrão mais recente com consultas em grafos)
+print("Ola, Mundo! (161/1300)")
+
+# 162. PL/SQL Oracle (Linguagem procedural robusta do ecossistema Oracle)
+print("Ola, Mundo! (162/1300)")
+
+# 163. T-SQL Microsoft (Transact-SQL usado no SQL Server)
+print("Ola, Mundo! (163/1300)")
+
+# 164. PL/pgSQL PostgreSQL (Estruturas procedurais nativas do PostgreSQL)
+print("Ola, Mundo! (164/1300)")
+
+# 165. PL/MQL MySQL (Lógica procedural básica de rotinas MySQL)
+print("Ola, Mundo! (165/1300)")
+
+# 166. PL/SQL IBM DB2 (Sintaxe procedural do banco corporativo DB2)
+print("Ola, Mundo! (166/1300)")
+
+# 167. Informix 4GL (Linguagem clássica de quarta geração da IBM)
+print("Ola, Mundo! (167/1300)")
+
+# 168. Sybase Adaptive Server T-SQL (O dialeto que deu origem ao T-SQL)
+print("Ola, Mundo! (168/1300)")
+
+# 169. Teradata SQL (Extensão SQL focada em Data Warehouses gigantes)
+print("Ola, Mundo! (169/1300)")
+
+# 170. Firebird PSQL (Linguagem procedural aberta do banco Firebird)
+print("Ola, Mundo! (170/1300)")
+
+# 171. SQLite SQL (O dialeto minimalista embutido mais usado do mundo)
+print("Ola, Mundo! (171/1300)")
+
+# 172. H2 SQL (Banco de dados relacional rápido escrito em Java)
+print("Ola, Mundo! (172/1300)")
+
+# 173. HyperSQL HSQLDB (Motor SQL leve muito embutido em suítes office)
+print("Ola, Mundo! (173/1300)")
+
+# 174. Derby SQL / Java DB (Banco puramente relacional mantido pela Apache)
+print("Ola, Mundo! (174/1300)")
+
+# 175. MariaDB SQL (A ramificação livre com recursos adicionais do MySQL)
+print("Ola, Mundo! (175/1300)")
+
+# 176. CockroachDB SQL (Sintaxe relacional para bancos de dados distribuídos)
+print("Ola, Mundo! (176/1300)")
+
+# 177. YugabyteDB SQL (Compatibilidade profunda com PostgreSQL distribuído)
+print("Ola, Mundo! (177/1300)")
+
+# 178. Spanner SQL Google (Consultas relacionais com consistência global)
+print("Ola, Mundo! (178/1300)")
+
+# 179. Amazon Aurora SQL (Motor otimizado para a nuvem AWS)
+print("Ola, Mundo! (179/1300)")
+
+# 180. Azure SQL (A versão gerenciada em nuvem do ecossistema Microsoft)
+print("Ola, Mundo! (180/1300)")
+
+# 181. OpenEdge ABL / Progress 4GL (Desenvolvimento rápido de negócios)
+print("Ola, Mundo! (181/1300)")
+
+# 182. ABAP SAP (Linguagem oficial de relatórios e customização do SAP)
+print("Ola, Mundo! (182/1300)")
+
+# 183. SAP HANA SQLScript (Procedural otimizado para bancos em memória)
+print("Ola, Mundo! (183/1300)")
+
+# 184. FoxPro Classic (Banco relacional e procedural de grande sucesso)
+print("Ola, Mundo! (184/1300)")
+
+# 185. Visual FoxPro (Evolução orientada a objetos lançada pela Microsoft)
+print("Ola, Mundo! (185/1300)")
+
+# 186. dBase III (O pioneiro sistema de gerenciamento de tabelas PC)
+print("Ola, Mundo! (186/1300)")
+
+# 187. dBase IV (Versão expandida com suporte inicial a comandos SQL)
+print("Ola, Mundo! (187/1300)")
+
+# 188. Clipper Lang (Compilador super popular construído sobre a base dBase)
+print("Ola, Mundo! (188/1300)")
+
+# 189. Harbour (Compilador aberto moderno que mantém compatibilidade com Clipper)
+print("Ola, Mundo! (189/1300)")
+
+# 190. xHarbour (Extensão estável do projeto Harbour com novos recursos)
+print("Ola, Mundo! (190/1300)")
+
+# 191. Paradox PAL (Linguagem de script para o histórico banco Paradox)
+print("Ola, Mundo! (191/1300)")
+
+# 192. InterBase ISQL (Consultas interativas brutas do motor InterBase)
+print("Ola, Mundo! (192/1300)")
+
+# 193. Vectorwise SQL (Focado em análise colunar ultra-rápida de dados)
+print("Ola, Mundo! (193/1300)")
+
+# 194. Greenplum SQL (Análise distribuída baseada na arquitetura PostgreSQL)
+print("Ola, Mundo! (194/1300)")
+
+# 195. Vertica SQL (Banco colunar projetado para análises massivas de Big Data)
+print("Ola, Mundo! (195/1300)")
+
+# 196. Netezza SQL (Sistemas integrados de hardware e software para dados)
+print("Ola, Mundo! (196/1300)")
+
+# 197. MonetDB SQL (Banco pioneiro em código aberto focado em colunas)
+print("Ola, Mundo! (197/1300)")
+
+# 198. MemSQL / SingleStore (Consultas relacionais de altíssima velocidade em memória)
+print("Ola, Mundo! (198/1300)")
+
+# 199. OceanBase SQL (Banco distribuído de alta escala do grupo Alibaba)
+print("Ola, Mundo! (199/1300)")
+
+# 200. TiDB SQL (Banco híbrido transacional e analítico de código aberto)
+print("Ola, Mundo! (200/1300)")
+
+
